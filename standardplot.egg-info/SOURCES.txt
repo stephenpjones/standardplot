@@ -1,0 +1,10 @@
+README.md
+setup.py
+standardplot/__init__.py
+standardplot/config.py
+standardplot/utils.py
+standardplot.egg-info/PKG-INFO
+standardplot.egg-info/SOURCES.txt
+standardplot.egg-info/dependency_links.txt
+standardplot.egg-info/requires.txt
+standardplot.egg-info/top_level.txt
